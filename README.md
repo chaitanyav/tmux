@@ -5,9 +5,9 @@ My tmux conf
 -------------------------------------------------------------------------------
 Setup:
 -------------------------------------------------------------------------------
-  git clone git://github.com/chaitanyav/tmux.git ~/.tmux
+    git clone git://github.com/chaitanyav/tmux.git ~/.tmux
 
-  ln -s ~/.tmux/tmux.conf ~/.tmux.conf  
+    ln -s ~/.tmux/tmux.conf ~/.tmux.conf  
 
 -------------------------------------------------------------------------------
 Reference:
